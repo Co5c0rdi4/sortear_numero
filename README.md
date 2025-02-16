@@ -1,6 +1,6 @@
 <p>Este projeto foi desenvolvido pela plataforma de cursos online <strong>Alura</strong>.</p>
 <h2>Sobre</h2>
-<p>O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso, utilizando as melhores práticas de desenvolvimento. Se trata de uma página feita para sortear uma quantidade de números aleatórios dentrode um intervalo, ambos a serem definidos pelo usuário.</p>
+<p>O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso, utilizando as melhores práticas de desenvolvimento. </br>Se trata de uma página feita para sortear uma quantidade de números aleatórios dentrode um intervalo, ambos a serem definidos pelo usuário.</p>
       
 <h2>Tecnologias Utilizadas</h2>
   <ul>
